@@ -6,5 +6,7 @@
 - most projects are written in Ruby, mostly because I just enjoy writing it over summer when I'm not at uni, but I'm also happy to write in:
   - Java
   - Python
-  - TypeScript/JavaScript 
+  - TypeScript/JavaScript
+  - ... or really any language.
+
 
