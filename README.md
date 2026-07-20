@@ -1,4 +1,6 @@
-- MSc Software Development student (graduating 2027)
+# MSc Software Development Student
+
+- Graduating 2027
 - Currently focussing on making internal/personal tools solving problems in my own life and for friends and colleagues
 - examples: shifts, budget, knowledge-base
 - Previously worked on writing Java libraries, as well as web applications with Rails
@@ -8,5 +10,4 @@
   - Python
   - TypeScript/JavaScript
   - ... or really any language.
-
 
