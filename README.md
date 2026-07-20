@@ -1,5 +1,3 @@
-# me
-
 - MSc Software Development student (graduating 2027)
 - Currently focussing on making internal/personal tools solving problems in my own life and for friends and colleagues
 - examples: shifts, budget, knowledge-base
